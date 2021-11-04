@@ -1,1 +1,1 @@
-# recat_redux_typescript
+# react_redux_typescript
